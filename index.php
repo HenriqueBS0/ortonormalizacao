@@ -37,7 +37,7 @@ echo PHP_EOL . '======{Exercício 4}========' . PHP_EOL;
 echo $oOrtonormalizacao->apresentaProjecoes();
 
 /**
- * 5. [2 pontos] Você deve criar um método que retorna a projeção. Então, deverá exibir:
+ * 5. [3 pontos] Você deve criar um método que realiza a ortonormalização de Gram-Schmidt.
  */
 
 echo PHP_EOL . '======{Exercício 5}========' . PHP_EOL;
